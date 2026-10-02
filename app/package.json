@@ -1,0 +1,17 @@
+{
+    "name": "catopalian-nwjs-add-to-array",
+    "version": "1.0.0",
+    "description": "How to add a name to an array",
+    "main": "index.html",
+    "window":
+    {
+        "title": "CATopalian NWJS Add to Array",
+        "icon": "src/media/textures/icons/catopalian_true_ai.png",
+        "width": 450,
+        "height": 350,
+        "position": "center",
+        "resizable": true,
+        "frame": true
+    },
+    "nodejs": true
+}
